@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="841.89px" height="595.28px" viewBox="0 0 841.89 595.28" enable-background="new 0 0 841.89 595.28" xml:space="preserve">
+<circle fill="#FFFFFF" stroke="#CC3333" stroke-width="2" stroke-miterlimit="10" cx="71.377" cy="288.671" r="53.593"/>
+<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 128.4497 345.8545)" font-family="monospace" font-size="15">[:CONTAINS]</text>
+<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 111.0952 360.2256)" font-family="monospace" font-size="15">{Quantity}</text>
+<circle fill="#FFFFFF" stroke="#009966" stroke-width="2" stroke-miterlimit="10" cx="266.377" cy="107.671" r="53.593"/>
+<circle fill="#FFFFFF" stroke="#009966" stroke-width="2" stroke-miterlimit="10" cx="266.377" cy="288.671" r="53.593"/>
+<circle fill="#FFFFFF" stroke="#9900CC" stroke-width="2" stroke-miterlimit="10" cx="503.378" cy="194.671" r="53.593"/>
+<circle fill="#FFFFFF" stroke="#009966" stroke-width="2" stroke-miterlimit="10" cx="266.377" cy="469.671" r="53.593"/>
+<circle fill="#FFFFFF" stroke="#9900CC" stroke-width="2" stroke-miterlimit="10" cx="503.378" cy="469.671" r="53.593"/>
+<circle fill="#FFFFFF" stroke="#FFCC00" stroke-width="2" stroke-miterlimit="10" cx="754.378" cy="194.671" r="53.593"/>
+<circle fill="#FFFFFF" stroke="#FFCC00" stroke-width="2" stroke-miterlimit="10" cx="754.378" cy="469.671" r="53.593"/>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#333333" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="111.096" y1="242.88" x2="200.998" y2="152.978"/>
+		<g>
+			<polygon fill="#333333" points="204.461,159.331 208.075,145.847 194.59,149.459 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#333333" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="443.042" y1="194.671" x2="331.714" y2="122.585"/>
+		<g>
+			<polygon fill="#333333" points="337.202,117.869 323.26,117.157 329.614,129.587 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#333333" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="443.042" y1="194.124" x2="331.714" y2="266.21"/>
+		<g>
+			<polygon fill="#333333" points="329.656,259.273 323.302,271.703 337.244,270.991 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#333333" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="119.479" y1="341.881" x2="201.295" y2="430.7"/>
+		<g>
+			<polygon fill="#333333" points="194.806,433.9 208.13,438.063 205.073,424.442 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#333333" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="137" y1="289" x2="198" y2="289"/>
+		<g>
+			<polygon fill="#333333" points="196,295.822 208.089,288.842 196,281.861 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#333333" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="443" y1="470" x2="333" y2="470"/>
+		<g>
+			<polygon fill="#333333" points="335,462.939 322.911,469.919 335,476.9 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#333333" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="686" y1="470" x2="576" y2="470"/>
+		<g>
+			<polygon fill="#333333" points="578,462.939 565.91,469.919 578,476.9 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#333333" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="686" y1="195" x2="576" y2="195"/>
+		<g>
+			<polygon fill="#333333" points="578,187.939 565.91,194.919 578,201.9 			"/>
+		</g>
+	</g>
+</g>
+<path opacity="0.7" fill="#FFFFFF" d="M179,397.917c0,10.029-5.373,18.083-12,18.083H30c-6.627,0-12-8.054-12-18.083v-28.756
+	C18,359.132,23.373,351,30,351h137c6.627,0,12,8.132,12,18.161V397.917z"/>
+<text transform="matrix(1 0 0 1 46.0361 297.6401)" font-family="monospace" font-size="28">Set</text>
+<text transform="matrix(1 0 0 1 225.2749 114.1304)" font-family="monospace" font-size="28">Part1</text>
+<text transform="matrix(1 0 0 1 456.5977 202.1543)" font-family="monospace" font-size="23">Design1</text>
+<text transform="matrix(1 0 0 1 702.6934 198.5615)" font-family="monospace" font-size="19">Category1</text>
+<text transform="matrix(1 0 0 1 17.7852 366.2266)"><tspan x="0" y="0" font-family="monospace" font-size="19">id: SetNumber,</tspan><tspan x="0" y="22.8" font-family="monospace" font-size="19">Name: Name,</tspan><tspan x="0" y="45.6" font-family="monospace" font-size="19">Pieces: Pieces</tspan></text>
+<path opacity="0.7" fill="#FFFFFF" d="M351,558c0,6.627-5.373,12-12,12H202c-6.627,0-12-5.373-12-12v-19c0-6.627,5.373-12,12-12h137
+	c6.627,0,12,5.373,12,12V558z"/>
+<text transform="matrix(1 0 0 1 189.7852 542.2266)"><tspan x="0" y="0" font-family="monospace" font-size="19">id: PartID,</tspan><tspan x="0" y="22.8" font-family="monospace" font-size="19">Colour: Colour</tspan></text>
+<path opacity="0.7" fill="#FFFFFF" d="M597,558c0,6.627-5.373,12-12,12H448c-6.627,0-12-5.373-12-12v-19c0-6.627,5.373-12,12-12h137
+	c6.627,0,12,5.373,12,12V558z"/>
+<text transform="matrix(1 0 0 1 435.7852 542.2266)"><tspan x="0" y="0" font-family="monospace" font-size="19">id: DesignID,</tspan><tspan x="0" y="22.8" font-family="monospace" font-size="19">name: PartName</tspan></text>
+<path opacity="0.7" fill="#FFFFFF" d="M835,558c0,6.627-5.373,12-12,12H686c-6.627,0-12-5.373-12-12v-19c0-6.627,5.373-12,12-12h137
+	c6.627,0,12,5.373,12,12V558z"/>
+<text transform="matrix(1 0 0 1 673.7852 542.2266)" font-family="monospace" font-size="19">name: Category</text>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 118.7407 230.4346)" font-family="monospace" font-size="15">[:CONTAINS]</text>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 130.7173 242.8809)" font-family="monospace" font-size="15">{Quantity}</text>
+<text transform="matrix(1 0 0 1 119.4785 284.6709)" font-family="monospace" font-size="15">[:CONTAINS]</text>
+<text transform="matrix(1 0 0 1 119.4785 303.832)" font-family="monospace" font-size="15">{Quantity}</text>
+<text transform="matrix(1 0 0 1 571.5752 190.0601)" font-family="monospace" font-size="15">[:DESIGN_TYPE]</text>
+<text transform="matrix(1 0 0 1 569.7793 464.2773)" font-family="monospace" font-size="15">[:DESIGN_TYPE]</text>
+<text transform="matrix(0.8413 0.5406 -0.5406 0.8413 345.8857 126.4741)" font-family="monospace" font-size="15">[:PART_TYPE]</text>
+<text transform="matrix(0.8441 -0.5361 0.5361 0.8441 336.251 256.7729)" font-family="monospace" font-size="15">[:PART_TYPE]</text>
+<text transform="matrix(1 8.100000e-004 -8.100000e-004 1 336.249 464.2734)" font-family="monospace" font-size="15">[:PART_TYPE]</text>
+<text transform="matrix(1 0 0 1 702.6934 475.209)" font-family="monospace" font-size="19">Category2</text>
+<text transform="matrix(1 0 0 1 456.5977 475.209)" font-family="monospace" font-size="23">Design2</text>
+<text transform="matrix(1 0 0 1 225.2749 293.771)" font-family="monospace" font-size="28">Part2</text>
+<text transform="matrix(1 0 0 1 225.2749 479.998)" font-family="monospace" font-size="28">Part3</text>
+</svg>
