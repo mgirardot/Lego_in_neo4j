@@ -9,3 +9,5 @@ Here I used neo4j to store a sample of the Star Wars Lego collection. Using this
 _This project was developed for the Graphgist Challenge at [Neo4j](http://portal.graphgist.org/challenge/index.html)_
 
 The AsciiDoc file `Lego_sets.adoc` is interpreted at the [graphgist portal](http://portal.graphgist.org/graph_gists/build-star-wars-models-with-your-lego-collection)
+
+Here is the result of the [challenge](http://neo4j.com/blog/graphgist-challenge-winners/). My graphgist has been awarded in the holidays category. Many thanks to Neo4j and the judges (Kevin Van Gundy, Nicole White, William Lyon, Jonatan Jäderberg and Luanne Misquitta).
